@@ -1,0 +1,12 @@
+{
+  "name": "jest-by-example",
+  "version": "0.0.1",
+  "description": "how to jest",
+  "main": "index.js",
+  "repository": "git@github.com:PerStirpes/jest-by-example.git",
+  "author": "Matt Barraza-Carl <PerStirpes@users.noreply.github.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest-cli": "^22.2.1"
+  }
+}
